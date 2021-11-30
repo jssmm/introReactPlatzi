@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/introReactPlatzi/static/css/main.9d2e2ea5.chunk.css",
+    "main.js": "/introReactPlatzi/static/js/main.208c056a.chunk.js",
+    "main.js.map": "/introReactPlatzi/static/js/main.208c056a.chunk.js.map",
+    "runtime-main.js": "/introReactPlatzi/static/js/runtime-main.cb4be874.js",
+    "runtime-main.js.map": "/introReactPlatzi/static/js/runtime-main.cb4be874.js.map",
+    "static/js/2.5c9aa84d.chunk.js": "/introReactPlatzi/static/js/2.5c9aa84d.chunk.js",
+    "static/js/2.5c9aa84d.chunk.js.map": "/introReactPlatzi/static/js/2.5c9aa84d.chunk.js.map",
+    "index.html": "/introReactPlatzi/index.html",
+    "static/css/main.9d2e2ea5.chunk.css.map": "/introReactPlatzi/static/css/main.9d2e2ea5.chunk.css.map",
+    "static/js/2.5c9aa84d.chunk.js.LICENSE.txt": "/introReactPlatzi/static/js/2.5c9aa84d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb4be874.js",
+    "static/js/2.5c9aa84d.chunk.js",
+    "static/css/main.9d2e2ea5.chunk.css",
+    "static/js/main.208c056a.chunk.js"
+  ]
+}
